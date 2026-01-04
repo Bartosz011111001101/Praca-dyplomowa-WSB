@@ -1,0 +1,11 @@
+../X-CUBE-AI/App/ml_network.c:525:9:ai_ml_network_get_info	4
+../X-CUBE-AI/App/ml_network.c:572:9:ai_ml_network_get_report	4
+../X-CUBE-AI/App/ml_network.c:619:10:ai_ml_network_get_error	1
+../X-CUBE-AI/App/ml_network.c:626:10:ai_ml_network_create	1
+../X-CUBE-AI/App/ml_network.c:672:12:ai_ml_network_inputs_get	2
+../X-CUBE-AI/App/ml_network.c:683:12:ai_ml_network_outputs_get	2
+../X-CUBE-AI/App/ml_network.c:694:11:ai_ml_network_destroy	1
+../X-CUBE-AI/App/ml_network.c:701:9:ai_ml_network_init	4
+../X-CUBE-AI/App/ml_network.c:637:10:ai_ml_network_create_and_init	8
+../X-CUBE-AI/App/ml_network.c:718:8:ai_ml_network_run	1
+../X-CUBE-AI/App/ml_network.c:726:8:ai_ml_network_forward	1

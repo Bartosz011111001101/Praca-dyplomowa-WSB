@@ -1,0 +1,17 @@
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:160:19:HAL_RAMECC_Init	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:208:19:HAL_RAMECC_DeInit	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:278:19:HAL_RAMECC_StartMonitor	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:315:19:HAL_RAMECC_StopMonitor	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:353:19:HAL_RAMECC_EnableNotification	8	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:392:19:HAL_RAMECC_DisableNotification	8	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:577:13:HAL_RAMECC_DetectErrorCallback	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:531:6:HAL_RAMECC_IRQHandler	16	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:616:10:HAL_RAMECC_GetFailingAddress	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:632:10:HAL_RAMECC_GetFailingDataLow	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:648:10:HAL_RAMECC_GetFailingDataHigh	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:664:10:HAL_RAMECC_GetHammingErrorCode	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:680:10:HAL_RAMECC_IsECCSingleErrorDetected	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:696:10:HAL_RAMECC_IsECCDoubleErrorDetected	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:737:25:HAL_RAMECC_GetState	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:750:10:HAL_RAMECC_GetError	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ramecc.c:763:10:HAL_RAMECC_GetRAMECCError	0	static

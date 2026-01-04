@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>567</width>
+    <height>675</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Rozpoznawanie zwierząt</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="Test_all_from_folder_button">
+    <property name="geometry">
+     <rect>
+      <x>4</x>
+      <y>110</y>
+      <width>141</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Testuj wszystkie
+nagrania z folderu</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="Serial_port_open_button">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>10</y>
+      <width>141</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Otworz port szeregowy</string>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Text_window">
+    <property name="geometry">
+     <rect>
+      <x>4</x>
+      <y>190</y>
+      <width>561</width>
+      <height>441</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Select_file_for_test">
+    <property name="geometry">
+     <rect>
+      <x>4</x>
+      <y>30</y>
+      <width>141</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Wybierz jeden plik 
+do przetestowania</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Pick_up_samples_button">
+    <property name="geometry">
+     <rect>
+      <x>284</x>
+      <y>130</y>
+      <width>141</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Odbierz nagranie</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Select_folder_for_write_wav_button">
+    <property name="geometry">
+     <rect>
+      <x>284</x>
+      <y>30</y>
+      <width>141</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Wybierz folder 
+zapisu nagrania</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Select_folder_with_data">
+    <property name="geometry">
+     <rect>
+      <x>144</x>
+      <y>30</y>
+      <width>141</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Wybierz folder z plikami</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>90</y>
+      <width>131</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Nazwa oderanego pliku</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="File_wav_name">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>110</y>
+      <width>131</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="mouseTracking">
+     <bool>true</bool>
+    </property>
+    <property name="tabletTracking">
+     <bool>true</bool>
+    </property>
+    <property name="focusPolicy">
+     <enum>Qt::ClickFocus</enum>
+    </property>
+    <property name="dragEnabled">
+     <bool>true</bool>
+    </property>
+    <property name="readOnly">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Select_file_for_compare_with_GPT">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>30</y>
+      <width>141</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Porównaj predykcje z 
+chatem GPT</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>567</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
