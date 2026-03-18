@@ -11,11 +11,11 @@ This project, developed as a diploma project for the "Artificial Intelligence. M
 - The embedded device can record 5s and display the result of prediction,
 - Visualization: Real-time feedback and results display on both the embedded device and the companion application.
   
-![alt](image-4.png)![alt](image-5.png)
+![alt](Images/image-4.png)![alt](Images/image-5.png)
 
-![alt](image-1.png)![alt](image-2.png)
+![alt](Images/image-1.png)![alt](Images/image-2.png)
 
-![alt](image-3.png)
+![alt](Images/image-3.png)
 
 
 
