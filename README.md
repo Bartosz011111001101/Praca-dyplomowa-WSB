@@ -1,6 +1,6 @@
 # 📚 Embedded Animal Sound Recognition System
 
-This project, developed as a diploma project for the "Artificial Intelligence and Machine Learning" postgraduate program at WSB Merito University, focuses on the design and implementation of an embedded animal sound recognition system. The core of the system is the STM32 Nucleo-H753ZI microcontroller, utilizing a custom neural network built with TensorFlow, NumPy, and Scikit-learn. The system utilizes the [ESC-50 dataset](https://github.com/karolpiczak/ESC-50) for training.
+This project, developed as a diploma project for the "Artificial Intelligence. Machine Learning" postgraduate studies at WSB Merito University, focuses on the design and implementation of an embedded animal sound recognition system. The core of the system is the STM32 Nucleo-H753ZI microcontroller, utilizing a custom neural network built with TensorFlow, NumPy, and Scikit-learn. The system utilizes the [ESC-50 dataset](https://github.com/karolpiczak/ESC-50) for training.
 ---
 
 ## 🚀 Functionalities
